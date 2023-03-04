@@ -1,3 +1,6 @@
-import base64
-I2luY2x1ZGU8c3RkaW8uaD4NCg0KaW50IG1haW4oKXsNCiAgICBwcmludGYo
-IkhlbGxvIFdvcmxkISIpOw0KICAgIHJldHVybiAwOw0KfQ==
+#include<stdio.h>
+
+int main(){
+    printf("Hello World!");
+    return 0;
+}
